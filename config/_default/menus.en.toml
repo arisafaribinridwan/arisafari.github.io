@@ -1,0 +1,25 @@
+[[main]]
+name = "Posts"
+pageRef = "posts"
+weight = 1
+
+[[main]]
+name = "Tags"
+pageRef = "tags"
+identifier = "PISVGcBlZn"
+weight = 10
+
+[[main]]
+name = "About"
+pageRef = "about"
+identifier = "jjmf94s0zJ"
+weight = 20
+
+[[main]]
+name = "Series"
+pageRef = "series"
+identifier = "pncmC83dBA"
+weight = 9999
+
+[[footer]]
+none = "none"

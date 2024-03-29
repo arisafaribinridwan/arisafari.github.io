@@ -1,0 +1,24 @@
+languageCode = "en"
+languageName = "English"
+weight = 1
+title = "Ari Safari"
+
+[params]
+  displayName = "EN"
+  isoCode = "en"
+  rtl = false
+  dateFormat = "2 January 2006"
+  logo = "img/logo.png"
+  # secondaryLogo = "img/secondary-logo.png"
+  description = "Personal site about Coding & Personal Notes"
+  #copyright = "Copy, _right?_ :thinking_face:"
+
+[author]
+  name = "Ari Safari"
+  image = "img/profile.png"
+  headline = "Lifetime learner | Tech enthusiast"
+  bio = "Lifetime Learner"
+  links = [
+    { github = "https://github.com/arisafaribinridwan" },
+    { instagram = "https://instagram.com/arisafari.ridwan" },
+  ]
