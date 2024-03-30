@@ -30,6 +30,12 @@ Untuk media video, referensiku pribadi yaitu Pak
 dari youtube EnvatoTuts+
 [HTML & CSS for Beginners | FREE MEGA COURSE (7+ Hours!)](https://www.youtube.com/watch?v=iG2jotQo9NI&t=3625s)
 
+Kenapa personal preferenceku pak Adi ini, karena :
+
+1. Cara penyampaiannya pakai bahasa Inggris yang simple dan pelan (ukuran yang gak jago bahasa Inggris, udah cukup dimengerti).
+2. Materinya mencakup yang general saja, jadi buat pemula tidak terlalu pusing.
+3. Sambil belajar tentang subjek tertentu, langsung ada praktiknya.
+
 ### Notes
 
 Dengan banyaknya sumber belajar, akhirnya belajar itu juga soal kita cocok-cocokkan dengan pematerinya. Bukan berarti yang satu lebih baik dari yang lain.
