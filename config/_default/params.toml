@@ -103,7 +103,7 @@ smartTOC = true
   showViews = false
   showLikes = false
   showTableOfContents = true
-  cardView = true
+  cardView = false
 
 [term]
   showHero = false

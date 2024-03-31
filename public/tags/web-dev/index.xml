@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Web Dev on Ari Safari</title>
+    <link>http://localhost:1313/tags/web-dev/</link>
+    <description>Recent content in Web Dev on Ari Safari</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <copyright>© 2024 Ari Safari</copyright>
+    <lastBuildDate>Fri, 29 Mar 2024 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/tags/web-dev/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>HTML and CSS for beginner</title>
+      <link>http://localhost:1313/posts/2-html-css/</link>
+      <pubDate>Fri, 29 Mar 2024 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/posts/2-html-css/</guid>
+      <description>Preface # Setelah menentukan tujuan untuk menambah skill dibidang teknologi web dengan menjadi seorang Frontend Developer, tentu ada banyak hal yang harus dipelajari.</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/posts/2-html-css/featured.png" />
+    </item>
+    
+  </channel>
+</rss>
